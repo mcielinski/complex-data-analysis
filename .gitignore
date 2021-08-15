@@ -1,0 +1,46 @@
+# Random stuff
+test.ipynb
+assignment_1_copy.ipynb
+assignment_2_copy.ipynb
+assignment_3_copy.ipynb
+assignment_4_copy.ipynb
+
+# Credentials files
+*credentials.json
+
+# Spark
+spark-warehouse/
+
+# tox
+.tox/
+
+# VS Code
+.vscode
+
+# Celery stuff
+celerybeat-schedule
+celerybeat.pid
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Environments
+# .env
+# .venv
+# env/
+# venv/
+# ENV/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS
+*.DS_Store
+.AppleDouble
+.LSOverride

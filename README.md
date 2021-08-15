@@ -1,2 +1,2 @@
 # complex-data-analysis
-Assignments for the Composite Data Analysis course.
+Assignments for the Complex Data Analysis course.

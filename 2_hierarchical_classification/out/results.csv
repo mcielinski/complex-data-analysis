@@ -1,0 +1,16 @@
+,base_estimator,clf,h_fbeta
+0,TruncatedSVD - SVC,lcn,0.4672776973789998
+1,TruncatedSVD - RandomForestClassifier,lcn,0.7476135929744177
+2,TruncatedSVD - AdaBoostClassifier,lcn,0.6990355836381775
+3,TruncatedSVD - SVC,lcpl,0.588929219600726
+4,TruncatedSVD - RandomForestClassifier,lcpl,0.7884522854851644
+5,TruncatedSVD - AdaBoostClassifier,lcpl,0.5201576235222796
+6,TruncatedSVD - SVC,lcpn,0.6595097512971908
+7,TruncatedSVD - RandomForestClassifier,lcpn,0.8173821252638986
+8,TruncatedSVD - AdaBoostClassifier,lcpn,0.6719503790489317
+9,TruncatedSVD - SVC,big_bang,
+10,TruncatedSVD - RandomForestClassifier,big_bang,0.7345497351383167
+11,TruncatedSVD - AdaBoostClassifier,big_bang,
+12,TruncatedSVD - SVC,flat,0.7030367231638418
+13,TruncatedSVD - RandomForestClassifier,flat,0.8402366863905326
+14,TruncatedSVD - AdaBoostClassifier,flat,0.5868945868945868
